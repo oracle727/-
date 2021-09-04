@@ -75,6 +75,7 @@ footer {
   main {
     width: 100%;
     flex-direction: column;
+    
   }
   .step-box {
     width: 90%;
